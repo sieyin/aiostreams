@@ -3,7 +3,7 @@
 
 | Environment Variable               | Default Value                                          | Description                                                                                 |
 |------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| `ADDON_NAME`                       | `AIOStreams`                                         | The name of the addon.                                                                      |
+| `ADDON_NAME`                       | `Portobello`                                         | The name of the addon.                                                                      |
 | `ADDON_ID`                         | `aiostreams.viren070.com`                            | The unique identifier for the addon.                                                       |
 | `PORT`                             | `3000`                                               | The port on which the server runs.                                                         |
 | `BRANDING`                         | `undefined`    | Custom branding for the addon, displayed at the top of the configuration page. **This is a BUILD TIME environment variable.** |
